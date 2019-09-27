@@ -16,4 +16,5 @@
     <string name="age">Age</string>
     <string name="age_hint">Input your age</string>
     <string name="exit">Exit</string>
+    <string name="textview">Hello name, Congratulations!</string>
 </resources>
